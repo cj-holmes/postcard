@@ -1,0 +1,37 @@
+---
+title: "Chris Holmes"
+image: "me.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/cholmes-ds/"
+  - label: Twitter
+    url: "https://twitter.com/dickie_roper"
+  - label: GitHub
+    url: "https://github.com/cj-holmes"
+  - label: Email
+    url: "mailto:c.holmes4@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+### About
+
+* A professional, confident and highly driven Data Scientist
+* **Expert R user** - author of several R packages
+* Nintendo and Columbo enthusiast
+
+---
+
+### Education
+
+* Ph.D. in Physics | University of Exeter, UK
+* 1st Class Masters Degree in Physics | University of Exeter, UK
+
+--- 
+
+### Experience
+
+* [Full Fibre Ltd](https://www.fullfibre.co/) | Data Scientist | *Aug 2021  - Present*
+* [Openreach Ltd (BT)](https://www.openreach.com/) | Senior Data Scientist | *Apr 2017 - Aug 2021*
+* [Openreach Ltd (BT)](https://www.openreach.com/) | Data Scientist | *Sep 2015 - Apr 2017*
+* [Imerys Minerals Ltd](https://www.imerys.com/) | Research Scientist | *Nov 2011 - Aug 2015*

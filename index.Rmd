@@ -1,6 +1,6 @@
 ---
 title: "Chris Holmes"
-image: "me.png"
+image: "me.gif"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/cholmes-ds/"

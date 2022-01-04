@@ -16,15 +16,19 @@ output:
  
 ### About
 
-* A professional, confident and highly driven Data Scientist
-* **Expert R user** - author of several R packages
-* Nintendo and Columbo enthusiast
+Hi! I'm Chris Holmes, Data Scientist at [Full Fibre Ltd](https://www.fullfibre.co/) based in the South West of England.
+
+I'm a professional, confident and highly driven problem solver with a keen eye for scientific rigor and reproducible analysis.
+
+I have a particular love for the R programming language and enjoy contributing to the R open source community through the development of tools and packages (most often related to data visualisation).
+
+I am also a Nintendo and Columbo enthusiast!
 
 ---
 
 ### Education
 
-* Ph.D. in Physics | University of Exeter, UK
+* PhD in Physics | University of Exeter, UK
 * 1st Class Masters Degree in Physics | University of Exeter, UK
 
 --- 

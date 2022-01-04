@@ -16,9 +16,9 @@ output:
  
 ### About
 
-Hi! I'm Chris Holmes, Data Scientist at [Full Fibre Ltd](https://www.fullfibre.co/) based in the South West of England.
+Hi! I'm Chris Holmes, Data Scientist at [Full Fibre Ltd](https://www.fullfibre.co/) in the South West of England.
 
-I'm a professional, confident and highly driven problem solver with a keen eye for scientific rigor and reproducible analysis.
+I'm a professional, confident and highly driven problem solver with a keen eye for scientific rigour and reproducible analysis.
 
 I have a particular love for the R programming language and enjoy contributing to the R open source community through the development of tools and packages (most often related to data visualisation).
 

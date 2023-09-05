@@ -13,7 +13,6 @@ links:
 output:
   postcards::trestles
 ---
- 
 ### About
 
 Hi! I'm Chris Holmes, Data Scientist at [Full Fibre Ltd](https://www.fullfibre.co/) in the South West of England.

@@ -15,7 +15,7 @@ output:
 ---
 ### About
 
-Hi! I'm Chris Holmes, Data Scientist at [Full Fibre Ltd](https://www.fullfibre.co/) in the South West of England.
+Hi! I'm Chris Holmes, Head of Data and Analytics at [Full Fibre Ltd](https://www.fullfibre.co/) in the South West of England.
 
 I'm a professional, confident and highly driven problem solver with a keen eye for scientific rigour and reproducible analysis.
 
@@ -32,9 +32,10 @@ I am also a Nintendo and Columbo enthusiast!
 
 --- 
 
-### Experience
+### Professional Experience
 
-* [Full Fibre Ltd](https://www.fullfibre.co/) - Data Scientist - *Aug 2021  - Present*
-* [Openreach Ltd (BT)](https://www.openreach.com/) - Senior Data Scientist - *Apr 2017 - Aug 2021*
-* [Openreach Ltd (BT)](https://www.openreach.com/) - Data Scientist - *Sep 2015 - Apr 2017*
-* [Imerys Minerals Ltd](https://www.imerys.com/) - Research Scientist - *Nov 2011 - Aug 2015*
+* [Full Fibre Ltd](https://www.fullfibre.co/) - Head of Data and Analytics - *[Sep 2023  - Present]*
+* [Full Fibre Ltd](https://www.fullfibre.co/) - Data Scientist - *[Aug 2021  - Sep 2023]*
+* [Openreach Ltd (BT)](https://www.openreach.com/) - Senior Data Scientist - *[Apr 2017 - Aug 2021]*
+* [Openreach Ltd (BT)](https://www.openreach.com/) - Data Scientist - *[Sep 2015 - Apr 2017]*
+* [Imerys Minerals Ltd](https://www.imerys.com/) - Research Scientist - *[Nov 2011 - Aug 2015]* 

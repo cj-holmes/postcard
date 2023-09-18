@@ -25,17 +25,20 @@ I am also a Nintendo and Columbo enthusiast!
 
 ---
 
+### Professional Experience
+
+* [Full Fibre Ltd](https://www.fullfibre.co/)
+  * Head of Data and Analytics - *[Sep 2023  - Present]*
+  * Data Scientist - *[Aug 2021  - Sep 2023]*
+* [Openreach Ltd (BT)](https://www.openreach.com/)
+  * Senior Data Scientist - *[Apr 2017 - Aug 2021]*
+  * Data Scientist - *[Sep 2015 - Apr 2017]*
+* [Imerys Minerals Ltd](https://www.imerys.com/)
+  * Research Scientist - *[Nov 2011 - Aug 2015]* 
+
+---
+
 ### Education
 
 * PhD in Physics - University of Exeter, UK
 * 1st Class Masters Degree in Physics - University of Exeter, UK
-
---- 
-
-### Professional Experience
-
-* [Full Fibre Ltd](https://www.fullfibre.co/) - Head of Data and Analytics - *[Sep 2023  - Present]*
-* [Full Fibre Ltd](https://www.fullfibre.co/) - Data Scientist - *[Aug 2021  - Sep 2023]*
-* [Openreach Ltd (BT)](https://www.openreach.com/) - Senior Data Scientist - *[Apr 2017 - Aug 2021]*
-* [Openreach Ltd (BT)](https://www.openreach.com/) - Data Scientist - *[Sep 2015 - Apr 2017]*
-* [Imerys Minerals Ltd](https://www.imerys.com/) - Research Scientist - *[Nov 2011 - Aug 2015]* 
